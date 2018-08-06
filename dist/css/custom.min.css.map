@@ -1,0 +1,1 @@
+{"version":3,"file":"custom.min.css","sources":["custom.scss"],"sourcesContent":["body{\r\n  background-color:#a1a1a1;\r\n  color:#000\r\n}"],"names":[],"mappings":"AAAA,AAAA,IAAI,CAAA;EACF,gBAAgB,EAAC,OAAO;EACxB,KAAK,EAAC,IACR,GAAC"}
